@@ -1,3 +1,5 @@
+
+ 
 // $(document).ready(function(){
 //   $('.header').height($(window).height());
 // })
@@ -15,11 +17,11 @@ function Order (pizzaSize, crust) {
 }
 Order.prototype.pizzaCost = function () {
  if (this.pizzaSize === "Small") {
-   this.pizzaPrice += 1500;
+   this.pizzaPrice += 2000;
  } else if (this.pizzaSize === "Medium") {
-   this.pizzaPrice += 2800;
+   this.pizzaPrice += 3000;
  } else if (this.pizzaSize === "Large") {
-   this.pizzaPrice += 3900;
+   this.pizzaPrice += 4000;
  }
  if (this.crust === "crispy") {
    this.pizzaPrice += 1000;

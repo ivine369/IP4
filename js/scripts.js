@@ -19,7 +19,7 @@ Order.prototype.pizzaCost = function () {
  } else if (this.pizzaSize === "Medium") {
    this.pizzaPrice += 2800;
  } else if (this.pizzaSize === "Large") {
-   this.pizzaPrice += 4000;
+   this.pizzaPrice += 3900;
  }
  if (this.crust === "crispy") {
    this.pizzaPrice += 1000;

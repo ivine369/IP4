@@ -2,7 +2,7 @@
 #### 17.05.2020
 #### By Ivine Kemuma
 ## Description
-  Is a pizza app one can order pizza and choose crust together with toppings of their.One is also enabled to choose whether the item should be delivered or.
+  Is a pizza application one can order pizza and choose crust together with toppings of their.One is also enabled to choose whether the item should be delivered or.
 
 ##Setup/Installation Requirements
   *Click on ggithub repository link
@@ -12,7 +12,7 @@
   *Fork the repository
 
   *Click on clone so as to get the link
-  
+
   *Pull the repository link
 
   *Open the site

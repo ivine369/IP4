@@ -6,10 +6,15 @@
 
 ##Setup/Installation Requirements
   *Click on ggithub repository link
+
   *Open the repository
+
   *Fork the repository
+
   *Click on clone so as to get the link
+  
   *Pull the repository link
+
   *Open the site
 
 ##Known Bugs

@@ -35,6 +35,6 @@
      ivinekemuma014@gmail.com
 
 ##License
-     MIT License Copyright (c) 2020 
-         ivine kemuma
+     MIT License Copyright
+      (c) 2020  ivine kemuma
 

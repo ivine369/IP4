@@ -32,7 +32,7 @@ body {
   background-color: darkgreen;
   color:palevioletred;
 }
-.navbar-collapse {
+.navbar-collapse{
   justify-content: flex-start;
 }
 .header{

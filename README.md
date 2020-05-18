@@ -18,10 +18,12 @@
   *Open the site
 
 ##Known Bugs
+
    In case you come across any problem,email me at:
          ivinekemuma014@gmail.com
 
 ##Technologies Used
+
   -HTML
 
   -css
@@ -36,5 +38,6 @@
 
 ##License
      MIT License Copyright
+
       (c) 2020  ivine kemuma
 

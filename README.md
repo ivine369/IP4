@@ -2,7 +2,7 @@
 #### 17.05.2020
 #### By Ivine Kemuma
 ## Description
-  Is a pizza application where one can order pizza and choose crust together with toppings of their choice.One is also enabled to choose whether the item should be delivered or.
+  Is a pizza application where one can order pizza and choose crust together with toppings of their choice.One is also enabled to choose whether the item should be delivered or not.
 
 ##Setup/Installation Requirements
   *Click on ggithub repository link

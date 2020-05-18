@@ -15,7 +15,7 @@ function Order (pizzaSize, crust) {
 }
 Order.prototype.pizzaCost = function () {
  if (this.pizzaSize === "Small") {
-   this.pizzaPrice += 2000;
+   this.pizzaPrice += 1500;
  } else if (this.pizzaSize === "Medium") {
    this.pizzaPrice += 3000;
  } else if (this.pizzaSize === "Large") {
